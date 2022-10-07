@@ -9,7 +9,7 @@ import static com.mycompany.seminar1.QuickSort.printArray;
 
 /**
  *
- * @author vluca
+ * @author vluca Luca Vlad-Constantin 1221 A
  */
 public class Seminar1 {
 
